@@ -1,0 +1,16 @@
+{
+  "name": "total-backend",
+  "version": "1.0.0",
+  "description": "backend code only",
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Anjil TImsina",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
