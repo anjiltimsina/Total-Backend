@@ -2,16 +2,18 @@
   "name": "total-backend",
   "version": "1.0.0",
   "description": "backend code only",
-    "type": "module",
+  "type": "module",
   "keywords": [
     "js",
     "backend"
   ],
   "license": "ISC",
   "author": "Anjil TImsina",
-
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
